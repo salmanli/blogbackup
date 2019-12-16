@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Big chocolate
-subtitle: 居安思危
+title: Black C 
+subtitle: 精选，解言，知意，明理
 description: ''
 keywords:
 author: Borg
@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: httpS://www.lsxec.com 
+url: https://www.lsxec.com 
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
