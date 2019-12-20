@@ -266,13 +266,13 @@ postCalendar: true
 # the Gitalk config，default disabled
 # Gitalk 评论模块的配置，默认为不激活
 gitalk:
-  enable: false
-  owner:
-  repo:
-  oauth:
-    clientId:
-    clientSecret:
-  admin:
+  enable: true   
+  owner: salmanli 
+  repo: gitalk 
+  oauth: 
+    clientId: 5543b94ee48b137e896c 
+    clientSecret: eab589741526f90cd1996956242ad440ae5533c0
+  admin: salmanli
 
 # the Gitment config，default disabled
 # Gitment 评论模块的配置，默认为不激活
@@ -485,9 +485,9 @@ addthis:
 # 打字效果副标题.
 # 如果有符号 ‘ ，请在 ’ 前面加上 \
 subtitle:
-  enable: true  
-  loop: true # 是否循环
-  showCursor: true # 是否显示光标
+  enable: false   
+  loop: false  # 是否循环
+  showCursor: false  # 是否显示光标
   startDelay: 300 # 开始延迟
   typeSpeed: 100 # 打字速度
   backSpeed: 50 # 删除速度
